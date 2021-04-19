@@ -1,7 +1,6 @@
-using GateSystem;
-using System;
-using Xunit;
 using FluentAssertions;
+using GateSystem;
+using Xunit;
 
 namespace GateSystemTest
 {
